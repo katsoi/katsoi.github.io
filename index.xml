@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Tsoi</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Kevin Tsoi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Hello friend.
+Whether you are someone who found my website through my resume or from word of mouth, I appreciate you taking the time to learn about me.
+To start, my name is Kevin Tsoi and I am a data analyst. My hobbies include playing Tetris, eatting ramen, and learning about artificial intelligence. I generally like to try out new things (with the exception of anything involving heights or bugs) and a firm believer of trying things first before I make my opinion.</description>
+    </item>
+    
+  </channel>
+</rss>
